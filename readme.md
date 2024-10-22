@@ -1,13 +1,15 @@
 # Andika Pujangga Profile and Project Overview
 
-![Your Name's Photo](/Users/andikasafri/Desktop/module-1-andikasafri/Picture/me.jpeg) <!-- Replace with your image link -->
+<!-- ![Your Name's Photo](./Picture/me.jpeg) Replace with your image link -->
+<img src="./Picture/me.jpeg" alt="Andika's Photo" width="200" height="300"> <!-- Adjust the width and height as needed -->
+
 
 ## Contact Me
 You can reach me through the following platforms:
-- [![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-833AB4?logo=instagram&logoColor=white)](https://instagram.com/okid14)
-- [![Facebook](https://img.shields.io/badge/Facebook-YourName-1877F2?logo=facebook&logoColor=white)](https://facebook.com/muhamadandikapujangga)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/andika-safri)
-- [![Gmail](https://img.shields.io/badge/Email-yourname%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:andika.saf3@gmail.com)
+- [![Instagram](https://img.shields.io/badge/Instagram-@dikko_pujangga-833AB4?logo=instagram&logoColor=white)](https://instagram.com/dikko_pujangga)
+- [![Facebook](https://img.shields.io/badge/Facebook-AndikaPujangga-1877F2?logo=facebook&logoColor=white)](https://facebook.com/muhamadandikapujangga)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andika%20Safri-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/andika-safri)
+- [![Gmail](https://img.shields.io/badge/Email-andika.saf3%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:andika.saf3@gmail.com)
 
 ## About Me
 
