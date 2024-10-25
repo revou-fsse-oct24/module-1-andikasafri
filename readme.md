@@ -1,6 +1,6 @@
 # Andika Pujangga - Responsive Website
 
-<img src="./Picture/me.jpeg" alt="Photo of Andika Pujangga" width="200">
+![Photo of Andika Pujangga](./Picture/me_1.jpg)
 
 This is a simple, responsive static HTML website showcasing my personal information, interests, and a contact form.
 
