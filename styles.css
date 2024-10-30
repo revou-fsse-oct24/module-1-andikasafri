@@ -1,0 +1,82 @@
+/* Basic reset and styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+header h1 {
+    font-size: 1.8rem;
+}
+
+main {
+    max-width: 800px;
+    padding: 20px;
+}
+
+/* Profile Picture */
+.profile-pic {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    display: block;
+    margin: 10px auto;
+}
+
+/* Contact Form */
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Footer Styling */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+/* Responsive Design with Media Queries */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 1.4rem;
+    }
+
+    main {
+        padding: 10px;
+    }
+
+    .profile-pic {
+        width: 150px;
+    }
+
+    section h2 {
+        font-size: 1.5rem;
+    }
+
+    form label, form input, form textarea {
+        width: 100%;
+    }
+}
