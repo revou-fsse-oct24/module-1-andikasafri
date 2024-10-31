@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Andika Pujangga - Responsive Website</title>
+    <title>Andika Pujangga - Personal Website</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -13,7 +13,7 @@
     </header>
 
     <main>
-        <section>
+        <section id="about-me">
             <h2>About Me</h2>
             <img src="../Picture/me.jpeg" 
                  alt="Picture of Andika Pujangga" 
@@ -30,7 +30,7 @@
             </p>
         </section>
 
-        <section>
+        <section id="learning-journey">
             <h2>Current Learning Journey</h2>
             <p>I'm currently diving into:</p>
             <ul>
@@ -41,19 +41,22 @@
             <p>These technologies are foundational for building responsive, engaging websites and web applications.</p>
         </section>
 
-        <section>
+        <section id="contact">
             <h2>Contact Me</h2>
             <form action="#" method="POST">
-                <label for="name">Your Name:</label>
-                <input type="text" id="name" name="name" required><br><br>
-
-                <label for="message">Your Message:</label><br>
-                <textarea id="message" name="message" rows="4" cols="50" placeholder="Write your message here..." required></textarea><br><br>
-
-                <label for="updates">Subscribe to updates:</label>
-                <input type="checkbox" id="updates" name="updates"><br><br>
-
-                <input type="submit" value="Submit">
+                <div>
+                    <label for="name">Your Name:</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                <div>
+                    <label for="message">Your Message:</label>
+                    <textarea id="message" name="message" rows="4" placeholder="Write your message here..." required></textarea>
+                </div>
+                <div>
+                    <label for="updates">Subscribe to updates:</label>
+                    <input type="checkbox" id="updates" name="updates">
+                </div>
+                <button type="submit">Submit</button>
             </form>
         </section>
     </main>
