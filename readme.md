@@ -1,35 +1,45 @@
-# Andika Pujangga - Responsive Website
+# Andika Pujangga - Responsive Personal Website
 
-![Photo of Andika Pujangga](./Picture/me_1.jpg)
+![Profile Photo](./Picture/me_1.jpg)
 
-This is a simple, responsive static HTML website showcasing my personal information, interests, and a contact form.
+A responsive, static HTML website showcasing personal information, learning journey, and a contact form. Built using **Tailwind CSS** for streamlined styling and a fully responsive design.
 
-## Project Overview
-- **Name:** Andika Pujangga
-- **Current Learning:** Fullstack Software Engineering at RevoU
-- **Interests:** Machine Learning, AI, Fullstack development, Automation Testing
+---
 
-## Content Overview
-1. **Page Structure:**
-   - The website uses semantic HTML tags such as `<header>`, `<section>`, `<footer>`.
-   
-2. **Content:**
-   - Includes an introduction about me and my learning journey.
+### 📋 Project Overview
+- **Name**: Andika Pujangga
+- **Learning Path**: Fullstack Software Engineering at RevoU
+- **Interests**: Machine Learning, AI, Fullstack Development, Automation Testing
 
-3. **Form Set:**
-   - The website contains a form with:
-     - A text input for the user's name.
-     - A textarea for messages.
-     - A checkbox to subscribe to updates.
-     - A submit button.
+---
 
-4. **Tools:**
-   - The website was built using plain HTML with no additional CSS or JavaScript at this stage.
+### 🌐 Website Content
+1. **About Me** - Introduction to my background and interests.
+2. **Learning Journey** - A summary of current studies and focus areas.
+3. **Contact Form** - Reach out through:
+   - Name input
+   - Message textarea
+   - Option to subscribe to updates
+   - Submit button for direct contact
 
-## How to Edit
-You can edit the content by opening the `index.html` file and modifying the text or adding your own styles using CSS.
+---
 
-## Thank You!
-Feel free to explore the website, and check out my [GitHub profile](https://github.com/andikasafri) for more details.
+### 🛠 Tools and Technologies
+- **HTML5** for semantic structure
+- **CSS3** and **Tailwind CSS** for styling
+- **Responsive Design** with Tailwind’s media utilities
+- **Flexbox** for flexible and effective layout positioning
 
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/f-sXtHED)
+---
+
+### 🚀 How to Use
+To customize this site:
+1. Edit the `index.html` file for content changes.
+2. Adjust styles or themes in `styles.css`.
+
+### 📤 Deployment
+The website is live on [Netlify](https://module-1-andikasafri.netlify.app).
+
+---
+
+Feel free to explore, and check out my [GitHub profile](https://github.com/andikasafri) for more projects and insights!
